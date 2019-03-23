@@ -439,6 +439,10 @@ img.portrait {
   font-size: 0.8em;
 }
 
+.change {
+  color: orangered;
+}
+
 @media (min-width: 80em) {
   .stamp {
     display: inline-block;
